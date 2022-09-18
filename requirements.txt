@@ -103,6 +103,7 @@ pyhanko-certvalidator==0.19.5
 PyJWT==1.7.1
 pyparsing==3.0.6
 PyPDF3==1.0.6
+pypiwin32==223
 pyrsistent==0.18.0
 PySocks==1.7.1
 pyspark==3.3.0
@@ -111,7 +112,7 @@ python-crontab==2.6.0
 python-dateutil==2.8.2
 pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
-pywin32==303
+pypiwin32==223
 pywinpty==1.1.6
 PyYAML==6.0
 pyzmq==22.3.0
